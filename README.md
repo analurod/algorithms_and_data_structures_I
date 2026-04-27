@@ -1,5 +1,7 @@
 # 🚀 AED I - 2024.1
 
+[English Version Here!](https://github.com/analurod/algorithms_and_data_structures_I/blob/main/englishversion.md)
+
 ## 📌 Visão Geral
 Este repositório reúne os exercícios e materiais desenvolvidos ao longo da disciplina de **Algoritmos e Estruturas de Dados I (AED I)**, do curso de Ciência da Computação. O foco está na implementação de algoritmos clássicos e na aplicação prática de estruturas fundamentais como filas, pilhas, listas, árvores e grafos.
 
